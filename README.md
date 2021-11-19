@@ -1,4 +1,4 @@
-# Machine learning project to predict the prices of car using Random forest algorithm 
+# Machine learning project to predict the price of cars using Random forest algorithm 
 Project Overview :
 <ul>
 <li> Data analysis and data cleaning of the Vehices database containing 25 colunms </li>
