@@ -19,10 +19,10 @@ Project Overview :
 # Data Exploration:
 
 
-![newplot](https://github.com/anquabkhan/Yelp_reviews_classifier/blob/main/images/Yelp_reviews_heatmap.png)
-![newplot (1)](https://github.com/anquabkhan/Yelp_reviews_classifier/blob/main/images/Yelp_histogram.png)
-![newplot (1)](https://github.com/anquabkhan/Yelp_reviews_classifier/blob/main/images/Yelp_countplot.png)
-![newplot (1)](https://github.com/anquabkhan/Yelp_reviews_classifier/blob/main/images/Yelp_FaceitGrid.png)
+![newplot](/images/Randomforest2.png)
+![newplot (1)](/images/Randomforest3.png)
+![newplot (1)](/images/Randomforest4.png)
+![newplot (1)](/images/Randomforest6.png)
                                                                                                               
 
 
